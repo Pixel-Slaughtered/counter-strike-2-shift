@@ -248,4 +248,4 @@ opening a support request.
 
 ---
 
-*counter-strike-2-shift · Updated 2026-10-26 · Shared under the MIT License*
+*counter-strike-2-shift · Updated 2026-10-27 · Shared under the MIT License*
